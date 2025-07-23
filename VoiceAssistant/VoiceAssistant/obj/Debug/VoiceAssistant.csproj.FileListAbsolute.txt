@@ -1,0 +1,10 @@
+C:\Users\usaid\source\repos\VoiceAssistant\VoiceAssistant\obj\Debug\VoiceAssistant.csproj.AssemblyReference.cache
+C:\Users\usaid\source\repos\VoiceAssistant\VoiceAssistant\obj\Debug\VoiceAssistant.Properties.Resources.resources
+C:\Users\usaid\source\repos\VoiceAssistant\VoiceAssistant\obj\Debug\VoiceAssistant.csproj.GenerateResource.cache
+C:\Users\usaid\source\repos\VoiceAssistant\VoiceAssistant\obj\Debug\VoiceAssistant.csproj.CoreCompileInputs.cache
+C:\Users\usaid\source\repos\VoiceAssistant\VoiceAssistant\bin\Debug\VoiceAssistant.exe.config
+C:\Users\usaid\source\repos\VoiceAssistant\VoiceAssistant\bin\Debug\VoiceAssistant.exe
+C:\Users\usaid\source\repos\VoiceAssistant\VoiceAssistant\bin\Debug\VoiceAssistant.pdb
+C:\Users\usaid\source\repos\VoiceAssistant\VoiceAssistant\obj\Debug\VoiceAssistant.exe
+C:\Users\usaid\source\repos\VoiceAssistant\VoiceAssistant\obj\Debug\VoiceAssistant.pdb
+C:\Users\usaid\source\repos\VoiceAssistant\VoiceAssistant\obj\Debug\VoiceAssistant.exe.config
